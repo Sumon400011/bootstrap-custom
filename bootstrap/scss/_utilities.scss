@@ -80,6 +80,8 @@ $utilities: map-merge(
         null: $box-shadow,
         sm: $box-shadow-sm,
         lg: $box-shadow-lg,
+        xl: $box-shadow-xl,
+        2xl: $box-shadow-2xl,
         none: none,
       )
     ),
